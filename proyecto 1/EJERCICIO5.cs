@@ -21,11 +21,11 @@ namespace proyecto_1
             double iva = 0;
             double granTotal = 0;
 
-            Console.WriteLine("Dame el costo:");
+            Console.WriteLine("Dame el costo del producto:");
             valor = Console.ReadLine();
             costo = Convert.ToDouble(valor);
 
-            Console.WriteLine("Es medicamento? Escribe 1 para si 2 para no");
+            Console.WriteLine("Es medicamento? Escribe 1 para si, 2 para no");
             valor = Console.ReadLine();
             medicina = Convert.ToInt32(valor);
 
