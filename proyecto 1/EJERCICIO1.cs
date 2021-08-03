@@ -10,7 +10,7 @@ namespace proyecto_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HOLA ALFREDO LAINEZ, Y HOLA EDWIN ADONIS");
+            Console.WriteLine("HOLA ALFREDO JOSE ZELAYA LAINEZ, Y HOLA EDWIN ADONY ULLOA DIAZ");
             Console.ReadKey();
         }
     }

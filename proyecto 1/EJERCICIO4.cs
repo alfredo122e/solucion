@@ -21,7 +21,7 @@ namespace proyecto_1
             f = (9 / 5) * C + 32;
 
             //SALIDA DE DATOS 
-            Console.WriteLine("LOS GRADOS CONVERTIDOS A FAHRENHEIT SON: ", +f);
+            Console.WriteLine("LOS GRADOS CONVERTIDOS A FAHRENHEIT SON: {0} ", +f);
             Console.ReadKey();
             Console.Write("PULSA CUALQUIER LETRA PARA SALIR:");
             Console.ReadKey();
